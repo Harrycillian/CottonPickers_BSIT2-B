@@ -1,0 +1,51 @@
+StudentID,Section,HouseholdSize,HouseholdMonthlyIncome,Distractions,AverageDistractionHours,WorkloadManagement,SleepingHours,SchoolWorksPerWeek,StudyHours
+0122-0838,BSIT 2-B,5,"₱10,000-20,000",Gaming,1-2 hours,5 - 6,3-4 hours,4 - 5,4-5 hours
+0122-0932,BSIT 2-B,4,"₱20,000-40,000",Gaming,1-2 hours,3 - 4,7-8 hours,2 - 3,4-5 hours
+0122-3587,BSIT 2-B,5,"₱10,000-20,000",Personal Stuff,30 minutes,5 - 6,2 hours,2 - 3,20 minutes
+0122-0307,BSIT 2-B,5,"₱20,000-40,000","Work, Business",3-4 hours,5 - 6,5-6 hours,4 - 5,2-3 hours
+0122-0984,BSIT 2-B,4,"₱40,000-60,000",Gaming,3-4 hours,5 - 6,5-6 hours,4 - 5,0-1 hour
+0122-0411,BSIT 2-B,6,"₱20,000-40,000",Gaming,3-4 hours,1 - 2,3-4 hours,4 - 5,0-1 hour
+0122-0739,BSIT 2-A,6,"₱20,000-40,000",Gym,1-2 hours,3 - 4,7-8 hours,4 - 5,2-3 hours
+0122-1367,BSIT 2-A,4,"₱10,000-20,000",Gaming,3-4 hours,1 - 2,5-6 hours,2 - 3,2-3 hours
+0122-3287,BSIT 2-B,5,"₱70,000",Gaming,3-4 hours,1 - 2,3-4 hours,2 - 3,0-1 hour
+0119-1048,BSIT 2-B,4,"₱40,000-60,000","Gaming, Work",5-6 hours,1 - 2,3-4 hours,2 - 3,0-1 hour
+0122-0422,BSIT 2-E,5,"Below ₱10,000","Gaming, Work",3-4 hours,1 - 2,5-6 hours,2 - 3,1-2 hours
+0122-2116,BSIT 2-D,5,"₱10,000-20,000",Gaming,3-4 hours,1 - 2,5-6 hours,2 - 3,0-1 hour
+0122-0533,BSIT 2-B,4,"₱10,000-20,000",Work,3-4 hours,1 - 2,5-6 hours,2 - 3,2-3 hours
+0122-0698,BSIT 2-B,1,"₱60,000+","Workload, Personal Stuff, School Stuff",3-4 hours,3 - 4,5-6 hours,2 - 3,0-1 hour
+0122-1422,BSIT 2-B,4,"₱40,000-60,000","Gaming, Work, Relationship",5-6 hours,1 - 2,7-8 hours,2 - 3,2-3 hours
+0119-0169,BSIT 2-B,4,"₱10,000-20,000","Gaming, Work, Relationship",5-6 hours,5 - 6,7-8 hours,4 - 5,8-10 hours
+CCSBSIT15-0054,BSIT 2-B,4,"₱20,000-40,000","Gaming, Relationship",5-6 hours,1 - 2,5-6 hours,2 - 3,2-3 hours
+0121-1310,BSIT 2-B,6,"₱20,000-40,000","Sports, Gaming",3-4 hours,1 - 2,5-6 hours,2 - 3,0-1 hour
+0123-0320,BSIT 2-B,4,"₱20,000-40,000",Gym,1-2 hours,5 - 6,5-6 hours,2 - 3,4-5 hours
+0122-1623,BSIT 2-B,4,"₱10,000-20,000",Finance,3-4 hours,3 - 4,I don't,2 - 3,2-3 hours
+0122-0591,BSIT 2-B,6,"₱40,000-60,000",Attention span,3-4 hours,1 - 2,5-6 hours,4 - 5,0-1 hour
+0122-7781,BSIT 2-E,5,"₱70,000",Gaming,5-6 hours,3 - 4,7-8 hours,4 - 5,2-3 hours
+0122-0793,BSIT 2-C,5,"₱40,000-60,000",Relationship,5-6 hours,1 - 2,7-8 hours,2 - 3,0-1 hour
+0122-1626,BSIT 2-C,5,"₱20,000-40,000","Gaming, Work, Relationship",5-6 hours,3 - 4,5-6 hours,4 - 5,2-3 hours
+0122-1601,BSIT 2-A,6,"₱10,000-20,000",Work,3-4 hours,3 - 4,7-8 hours,4 - 5,2-3 hours
+0122-1630,BSIT 2-A,11,"₱10,000-20,000",Work,3-4 hours,3 - 4,5-6 hours,2 - 3,2-3 hours
+0122-1607,BSIT 2-B,4,"₱10,000-20,000",Binge Watching,5-6 hours,1 - 2,5-6 hours,2 - 3,0-1 hour
+0120-0118,BSIT 2-A,3,"₱10,000-20,000",Work,5-6 hours,1 - 2,5-6 hours,2 - 3,0-1 hour
+0120-2170,BSIT 2-C,5,"₱20,000-40,000","Gaming, Work",3-4 hours,3 - 4,5-6 hours,2 - 3,2-3 hours
+0120-1305,BSIT 2-A,6,"₱40,000-60,000",Gaming,1-2 hours,3 - 4,7-8 hours,2 - 3,0-1 hour
+0120-1661,BSIT 2-A,3,"₱10,000-20,000","Gaming, Animal keeping, Relaxing",5-6 hours,3 - 4,5-6 hours,4 - 5,6 hours
+0122-3146,BSIT 2-E,9,"₱75,000",Gaming,5-6 hours,3 - 4,7-8 hours,4 - 5,2-3 hours
+0122-0168,BSIT 2-A,3,"₱10,000-20,000",Social Media apps,5-6 hours,5 - 6,7-8 hours,2 - 3,2-3 hours
+0120-1771,BSIT 2-A,3,"₱20,000-40,000",Relationship,3-4 hours,3 - 4,7-8 hours,2 - 3,2-3 hours
+0122-2889,BSIT 2-D,5,"₱10,000-20,000","Gaming, Family Problem",3-4 hours,5 - 6,5-6 hours,4 - 5,2-3 hours
+0120-1772,BSIT 2-C,5,"₱20,000-40,000","Gaming, Relationship",3-4 hours,3 - 4,7-8 hours,2 - 3,4-5 hours
+0120-1773,BSIT 2-D,2,"₱20,000-40,000",Work,3-4 hours,3 - 4,7-8 hours,2 - 3,4-5 hours
+0220-0110,BSIT 2-A,4,"₱10,000-20,000",Gaming,3-4 hours,3 - 4,3-4 hours,2 - 3,2-3 hours
+0120-0412,BSIT 2-D,4,"₱10,000-20,000",Work,5-6 hours,1 - 2,5-6 hours,2 - 3,1-2 hours
+0122-1255,BSIT 2-C,4,"₱10,000-20,000",Gaming,5-6 hours,1 - 2,5-6 hours,2 - 3,1-2 hours
+0122-0312,BSIT 2-C,5,"₱20,000-40,000",Gym,1-2 hours,3 - 4,7-8 hours,2 - 3,2-3 hours
+0122-0462,BSIT 2-C,4,"₱10,000-20,000",Gaming ,3-4 hours,1 - 2,7-8 hours,2 - 3,1-2 hours
+0122-4320,BSIT 2-D,3,"₱10,000-20,000","Gaming, Binge Watching",5-6 hours,1 - 2,5-6 hours,2 - 3,0-1 hour
+0122-3457,BSIT 2-C,7,"₱40,000-60,000",Sports,3-4 hours,1 - 2,5-6 hours,2 - 3,0-1 hour
+0122-0105,BSIT 2-B,4,"₱40,000-60,000","Gaming, Sports",5-6 hours,3 - 4,5-6 hours,2 - 3,2-3 hours
+0122-0276,BSIT 2-A,5,"₱40,000-60,000","Gaming, Work",5-6 hours,1 - 2,5-6 hours,2 - 3,1-2 hours
+0122-0376,BSIT 2-E,4,"₱10,000-20,000",Sports,3-4 hours,1 - 2,7-8 hours,2 - 3,1-2 hours
+0122-0719,BSIT 2-B,5,"₱20,000-40,000",Gaming,3-4 hours,1 - 2,5-6 hours,2 - 3,1-2 hours
+0121-0115,BSIT 2-B,6,"₱20,000-40,000",Work,5-6 hours,1 - 2,5-6 hours,2 - 3,1-2 hours
+0120-2492,BSIT 2-B,4,"₱10,000-20,000","Gaming, Sports",5-6 hours,3 - 4,7-8 hours,2 - 3,2-3 hours
