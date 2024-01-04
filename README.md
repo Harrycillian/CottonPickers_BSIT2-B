@@ -1,10 +1,10 @@
-a. Click on the '.ipynb' file to view our Data Visualization Project.
+a. Click on the '.ipynb' file to view our Data Visualization Project/Notebook that we implemented using Python language in Google Colaboratory.
 
 b. Click on '.csv' file to view the 'Demographics and Academics of LSPU-SCC 2nd Year IT Students' dataset table.
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-Description and Goals of the Project
+      Description and Goals of the Project
 This project aims to investigate the factors influencing the concentration levels of 2nd year IT students at LSPU Main Campus and analyze how these factors impact their study habits. The study will explore various elements such as environmental factors, technological distractions, workload, and personal habits that may contribute to concentration challenges. 
 
 
